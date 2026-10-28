@@ -1,10 +1,11 @@
+// Question: How can a program read values until their running sum exceeds 100?
 package Loop;
 
 import java.util.Scanner;
 
 public class SumOfValues {
     //    A program which reads sequence of integers from users and stop by displaying Done when the sum of these values exceeds 100
-    static void main(String[] args) {
+    public static void main(String[] args) {
         sum();
     }
 
